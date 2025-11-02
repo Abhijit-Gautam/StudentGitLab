@@ -1,1 +1,1 @@
-print()[D''[DHellow[D[C)Welcome to the world of GIT!!')
+print('Hello, welcome to the world of GIT')
